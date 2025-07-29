@@ -1,3 +1,2 @@
-# IA2
-Corte 1
-Codigos RGD: Ejecucion paso a paso de la regresion gradiente descendiente para un problema de prediccion lineal.
+# ESPACIO DE TRABAJO PROYECTOS ENFOCADOS A INTELIGENCIA ARTIFICIAL
+Este repositorio reúne una serie de proyectos desarrollados en el área de inteligencia artificial, con enfoque en modelos de predicción y aprendizaje supervisado. Incluye implementaciones prácticas que abordan tareas como clasificación, regresión y análisis de datos, utilizando técnicas de machine learning y deep learning. Cada proyecto está documentado con el objetivo de facilitar su comprensión y aplicación en contextos reales o académicos.
