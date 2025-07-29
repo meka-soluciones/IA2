@@ -17,5 +17,3 @@ El enfoque combina herramientas clásicas de procesamiento de señales con algor
 - Estimar la señal VPY a partir de la señal PPG.
 - Caracterizar los ciclos promedios usando herramientas de análisis de señales.
 - Detectar anomalías utilizando técnicas de clustering no supervisadas.
-
-## Estructura del proyecto
